@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlejandroIscop
+- 👋 Hi, I’m Alejandrito perdon @AlejandroIscop
 - 👀 I’m interested in SOFTWARE DEVELOPMENT
 - 🌱 I’m currently learning PHILOSOPHY CODE,,,
 - 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING
