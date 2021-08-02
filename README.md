@@ -1,14 +1,14 @@
-<h3 align="left">I:</h3>
-- 👋 I'm Alejandrito perdon @AlejandroIscop
+<h1 align="left">I</h1>
+- 👋 I'm Alejandrito perdon @AlejandroIscop✨
 - 👀 I’m interested in SOFTWARE DEVELOPMENT
 - 🌱 I’m currently learning PHILOSOPHY CODE,,,
 - 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING
 - 📫 How to reach me soporte@haab.site 
 
-<h3 align="left">Skills Backend:</h3>
+<h2 align="left">Skills Backend:</h2>
 - K8s from 2019
 - AWS Terraform, Docker
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
