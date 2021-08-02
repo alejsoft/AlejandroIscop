@@ -1,9 +1,12 @@
 <h1 align="left">I</h1>
-- 👋 I'm Alejandrito perdon @AlejandroIscop✨
-- 👀 I’m interested in SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning PHILOSOPHY CODE,,,
+<p align="left"> 
+- ✨ I'm Alejandrito perdon @AlejandroIscop
+- 🌱 I’m interested in SOFTWARE DEVELOPMENT
+- 👀 I’m currently learning PHILOSOPHY CODE,,,
 - 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING
 - 📫 How to reach me soporte@haab.site 
+</p>
+
 
 <h2 align="left">Skills Backend:</h2>
 - K8s from 2019
