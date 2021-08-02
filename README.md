@@ -3,7 +3,9 @@
 <p>- 🌱 I’m interested in SOFTWARE DEVELOPMENT                            </p>
 <p>- 👀 I’m currently learning PHILOSOPHY CODE,,,                         </p>   
 <p>- 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING  </p>
-<p>- 📫 How to reach me soporte@haab.site                                 </p>       
+<p>- 📫 How to reach me soporte@haab.site                                 </p> 
+<p>- 
+
 
 <h2 align="left">Skills Backend:</h2>
 - K8s from 2019
@@ -45,6 +47,11 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+  
+<p>
+  Podremos leer solo UNA vida y con los años intentaremos comprendernos algUNA vida descifrar esa maraña de sentimientos y letanías. Tocará seguir yendo       contracorriente, “Perdón por la Tristeza (César Vallejo), Simplicidad (Neruda), Aprendiendo a Desaprender lo que te dicen del mundo(Benedetti) y lo que sigue(Miguel Hernández). Para finalmente distanciarse del cuerpo, Salir de esa jaula que te limita(Haruki).
+Gracias por cada uno de los libros comprados y algunos prestados que quizás devolveré algún día,,,
+</p>
 
 
 
