@@ -1,10 +1,10 @@
-<h1 align="left">,,,</h1>
-<p> - ✨ I'm Alejandrito perdon @AlejandroIscop                           </p>
-<p>- 🌱 I’m interested in SOFTWARE DEVELOPMENT                            </p>
-<p>- 👀 I’m currently learning PHILOSOPHY CODE,,,                         </p>   
-<p>- 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING  </p>
-<p>- 📫 How to reach me soporte@haab.site                                 </p> 
-<p>- 
+### Contents:
+- ✨ I'm Alejandrito perdon @AlejandroIscop                           
+- 🌱 I’m interested in SOFTWARE DEVELOPMENT                           
+- 👀 I’m currently learning PHILOSOPHY CODE,,,                        
+- 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING 
+- 📫 How to reach me soporte@haab.site                                
+ 
 
 
 <h2 align="left">Skills Backend:</h2>
@@ -50,7 +50,7 @@
   
 <p>
   Podremos leer solo UNA vida y con los años intentaremos comprendernos algUNA vida descifrar esa maraña de sentimientos y letanías. Tocará seguir yendo       contracorriente, “Perdón por la Tristeza (César Vallejo), Simplicidad (Neruda), Aprendiendo a Desaprender lo que te dicen del mundo(Benedetti) y lo que sigue(Miguel Hernández). Para finalmente distanciarse del cuerpo, Salir de esa jaula que te limita(Haruki).
-Gracias por cada uno de los libros comprados y algunos prestados que quizás devolveré algún día,,,
+Gracias TOTALES(Cerati) por cada uno de los libros comprados y algunos prestados que quizás devolveré algún día,,,
 </p>
 
 
