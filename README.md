@@ -1,10 +1,10 @@
-<h1 align="left">I</h1>
-<h4- ✨ I'm Alejandrito perdon @AlejandroIscop</h4
-- 🌱 I’m interested in SOFTWARE DEVELOPMENT
-- 👀 I’m currently learning PHILOSOPHY CODE,,,
-- 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING
-- 📫 How to reach me soporte@haab.site 
-</p>
+<h1 align="left">,,,</h1>
+<h4> - ✨ I'm Alejandrito perdon @AlejandroIscop                           </h4>
+<h4>- 🌱 I’m interested in SOFTWARE DEVELOPMENT                            </h4>
+<h4>- 👀 I’m currently learning PHILOSOPHY CODE,,,                         </h4>   
+<h4>- 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING  </h4>
+<h4>- 📫 How to reach me soporte@haab.site                                 </h4>       
+
 
 
 <h2 align="left">Skills Backend:</h2>
