@@ -1,15 +1,14 @@
 <h1 align="left">,,,</h1>
-<h4> - ✨ I'm Alejandrito perdon @AlejandroIscop                           </h4>
-<h4>- 🌱 I’m interested in SOFTWARE DEVELOPMENT                            </h4>
-<h4>- 👀 I’m currently learning PHILOSOPHY CODE,,,                         </h4>   
-<h4>- 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING  </h4>
-<h4>- 📫 How to reach me soporte@haab.site                                 </h4>       
-
-
+<p> - ✨ I'm Alejandrito perdon @AlejandroIscop                           </p>
+<p>- 🌱 I’m interested in SOFTWARE DEVELOPMENT                            </p>
+<p>- 👀 I’m currently learning PHILOSOPHY CODE,,,                         </p>   
+<p>- 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING  </p>
+<p>- 📫 How to reach me soporte@haab.site                                 </p>       
 
 <h2 align="left">Skills Backend:</h2>
 - K8s from 2019
 - AWS Terraform, Docker
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
