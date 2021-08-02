@@ -1,6 +1,5 @@
 <h1 align="left">I</h1>
-<p align="left"> 
-- ✨ I'm Alejandrito perdon @AlejandroIscop
+<h4- ✨ I'm Alejandrito perdon @AlejandroIscop</h4
 - 🌱 I’m interested in SOFTWARE DEVELOPMENT
 - 👀 I’m currently learning PHILOSOPHY CODE,,,
 - 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING
