@@ -1,15 +1,23 @@
-### Contents:
-- ✨ I'm Alejandrito perdon @AlejandroIscop                           
-- 🌱 I’m interested in SOFTWARE DEVELOPMENT                           
-- 👀 I’m currently learning PHILOSOPHY CODE,,,                        
-- 💞️ I’m looking to collaborate on ELECTRONIC INVOICES AND ACCOUNTING 
-- 📫 How to reach me soporte@haab.site                                
- 
+ <p align="center">I'm <strong>Alejandrito </strong> perdon @AlejandroIscop✨,,,<br /></p>
+  <p align="center">   
+   <a href="https://www.youtube.com/channel/UCptIlZdwMQXMuEr06WzNGMg" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alejandrito" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/AlejandroIscop" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alejandrito" height="28px" width="28px" />
+  </a>
+  <br> - 🤗 I'm love software development more than food
+  <br> - 👀 I’m currently learning PHILOSOPHY CODE,,,                        
+  <br> - 🔥 I’m looking to Inventory Management and Accounting
+  <br> - 📫 How to reach me soporte@haab.site                                
+</p>
 
 
 <h2 align="left">Skills Backend:</h2>
-- K8s from 2019
-- AWS Terraform, Docker
+- K8s
+- AWS 
+- Terraform
+- Docker
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
