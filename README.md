@@ -8,7 +8,7 @@
   </a>
   <br> - 🤗 I'm love software development more than food
   <br> - 👀 I’m currently learning PHILOSOPHY CODE,,,                        
-  <br> - 🔥 I’m looking to Inventory Management and Accounting
+  <br> - 🔥 I’m skill in Inventory Management and Accounting
   <br> - 📫 How to reach me soporte@haab.site                                
 </p>
 
