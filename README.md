@@ -4,9 +4,9 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alejandrito" height="40" width="40" />
   </a>
   <a href="https://twitter.com/AlejandroIscop" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alejandrito" height="40" width="40" />
+    <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/twitter.svg" alt="@AlejandroIscopTWITTER" height="40" width="40" ></img>
   </a>
- <img src="https://github.com/Ariel-MN/Ariel-MN/blob/master/Assets/twitter.svg" alt="twitter" width="25"></img>](https://twitter.com/@montes_dev) &nbsp;&nbsp;&nbsp;
+
  
   <br> - 🤗 I'm love software development more than food
   <br> - 👀 I’m currently learning PHILOSOPHY CODE,,,                        
