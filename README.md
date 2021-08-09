@@ -16,8 +16,8 @@
 ## Skills Backend
 - K8s <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/k8.svg" alt="K8s" height="40" width="40"></img>
 - AWS <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/aws.svg" alt="AWS" height="40" width="40"></img> 
-- Terraform
-- Docker
+- Terraform <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/tf.svg" alt="@AlejandroYOUTUBE" height="40" width="40" ></img>
+- Docker <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/docker.svg" alt="@AlejandroYOUTUBE" height="40" width="40" ></img>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
