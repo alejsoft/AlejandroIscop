@@ -1,7 +1,6 @@
  <p align="center">I'm <strong>Alejandrito </strong> perdon @AlejandroIscop✨,,,<br /></p>
   <p align="center">
    <a href="https://www.youtube.com/channel/UCptIlZdwMQXMuEr06WzNGMg" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alejandrito" height="40" width="40" />
     <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/youtube.svg" alt="@AlejandroYOUTUBE" height="40" width="40" ></img>
   </a>
   <a href="https://twitter.com/AlejandroIscop" target="blank">
