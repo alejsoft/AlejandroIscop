@@ -1,22 +1,22 @@
  <p align="center">I'm <strong>Alejandrito </strong> perdon @AlejandroIscop✨,,,<br /></p>
-  <p align="center">
-   <a href="https://www.youtube.com/channel/UCptIlZdwMQXMuEr06WzNGMg" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/youtube.svg" alt="@AlejandroYOUTUBE" height="40" width="40" ></img>
-  </a>
-  <a href="https://twitter.com/AlejandroIscop" target="blank">
-    <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/twitter.svg" alt="@AlejandroTWITTER" height="40" width="40" ></img>
-  </a>
+    <p align="center">
+       <a href="https://www.youtube.com/channel/UCptIlZdwMQXMuEr06WzNGMg" target="blank" style='margin-right:4px'>
+           <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/youtube.svg" alt="@AlejandroYOUTUBE" height="40" width="40" ></img>
+       </a>
+       <a href="https://twitter.com/AlejandroIscop" target="blank">
+          <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/twitter.svg" alt="@AlejandroTWITTER" height="40" width="40" ></img>
+       </a>
 
- 
   <br> - 🤗 I'm love software development more than food
   <br> - 👀 I’m currently learning PHILOSOPHY CODE,,,                        
   <br> - 🔥 I’m skill in Inventory Management and Accounting
   <br> - 📫 How to reach me soporte@haab.site                                
 </p>
 
+## Skills Backend
+- K8s <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/k8.svg" alt="@AlejandroK8s" height="40" width="40" ></img>
+ 
 
-<h2 align="left">Skills Backend:</h2>
-- K8s
 - AWS 
 - Terraform
 - Docker
