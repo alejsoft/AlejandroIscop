@@ -1,4 +1,7 @@
- <p align="center">I'm <strong>Alejandrito </strong> perdon @AlejandroIscop✨,,,<br /></p>
+  <p align="center">
+    <𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻/>          彡𝘏𝘦𝘭𝘱 𝘵𝘰  ѕυρєяℓαтῑνυѕ  𝓉𝒽𝑒 𝓉𝒾𝓂𝑒 𝑜𝒻 𝒸𝑜𝓂𝓅𝒶𝓃𝒾𝑒𝓈/𝓅𝑒𝑜𝓅𝓁𝑒,,,   <br>
+    I'm <strong>Alejandrito </strong> perdon @AlejandroIscop✨,,,
+    </p>
     <p align="center">
        <a href="https://www.youtube.com/channel/UCptIlZdwMQXMuEr06WzNGMg" target="blank" style='margin-right:4px'>
            <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/youtube.svg" alt="@AlejandroYOUTUBE" height="40" width="40" ></img>
