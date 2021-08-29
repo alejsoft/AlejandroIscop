@@ -1,6 +1,6 @@
   <p align="center">
-    <𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻/>          彡𝘏𝘦𝘭𝘱 𝘵𝘰  ѕυρєяℓαтῑνυѕ  𝓉𝒽𝑒 𝓉𝒾𝓂𝑒 𝑜𝒻 𝒸𝑜𝓂𝓅𝒶𝓃𝒾𝑒𝓈/𝓅𝑒𝑜𝓅𝓁𝑒,,,   <br>
-    I'm <strong>Alejandrito </strong> perdon @AlejandroIscop✨,,,
+    <𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻/>          彡𝘏𝘦𝘭𝘱 𝘵𝘰 ѕυρєяℓαтῑνυѕ 𝓉𝒽𝑒 𝓉𝒾𝓂𝑒 𝑜𝒻 𝒸𝑜𝓂𝓅𝒶𝓃𝒾𝑒𝓈/𝓅𝑒𝑜𝓅𝓁𝑒,,,<br>
+    𝕀'𝕞 𝔸𝕝𝕖𝕛𝕒𝕟𝕕𝕣𝕚𝕥𝕠 <strong>𝕊𝕆ℝℝ𝕐</strong> @𝔸𝕝𝕖𝕛𝕒𝕟𝕕𝕣𝕠𝕀𝕤𝕔𝕠𝕡,,, ✨,,,
     </p>
     <p align="center">
        <a href="https://www.youtube.com/channel/UCptIlZdwMQXMuEr06WzNGMg" target="blank" style='margin-right:4px'>
@@ -10,9 +10,9 @@
           <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/twitter.svg" alt="@AlejandroTWITTER" height="40" width="40" ></img>
        </a>
        
-  <br> - 🤗 I'm love software development more than food
-  <br> - 👀 I’m currently learning PHILOSOPHY CODE,,,
-  <br> - 🔥 I’m skill in Inventory Management and Accounting
+  <br> - 🤗 ι'м ιи ℓσνє ωιтн ѕσfтωαяє ∂єνєℓσρмєит мσяє тнαи fσσ∂
+  <br> - 👀 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙿𝙷𝙸𝙻𝙾𝚂𝙾𝙿𝙷𝚈 𝙲𝙾𝙳𝙴,,,
+  <br> - 🔥 𝓜𝔂 𝓼𝓴𝓲𝓵𝓵𝓼 𝓪𝓻𝓮:  𝐈𝐧𝐯𝐞𝐧𝐭𝐨𝐫𝐲 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭, 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐢𝐧𝐠,𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞
   <br> - 📫 How to reach me soporte@haab.site
 </p>
 
