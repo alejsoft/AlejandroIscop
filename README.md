@@ -57,11 +57,15 @@
 
   </p>
 
-## Special Thanks 🙇  
-  Podremos leer solo UNA vida y con los años intentaremos comprendernos algUNA vida descifrar esa maraña de sentimientos y letanías. 
-  Tocará seguir yendo contracorriente, “Perdón por la Tristeza (César Vallejo), Simplicidad (Neruda), Aprendiendo a Desaprender lo 
-  que te dicen del mundo(Benedetti) y lo que sigue(Miguel Hernández). Para finalmente distanciarse del cuerpo, Salir de esa jaula que 
-  te limita(Haruki). Gracias TOTALES(Cerati) por cada uno de los libros comprados y algunos prestados que quizás devolveré, BUENO hasta aqui
-  porque la sopa se enfría,,,
+## 𝕊𝕡𝕖𝕔𝕚𝕒𝕝 𝕋𝕙𝕒𝕟𝕜𝕤 🙇  
+    Podremos   leer   solo  UNA  vida   y   con  los  años   intentaremos  comprendernos algUNA vida
+    descifrar  esa  maraña   de  sentimientos  y  letanías.  Tocará   seguir   yendo contracorriente, 
+    “Perdón  por  la  Tristeza (César Vallejo),  Simplicidad (Neruda),  Aprendiendo   a   Desaprender
+    lo   que  te  dicen  del  mundo(Benedetti)  y lo que  sigue (Miguel Hernández). Para  finalmente 
+    distanciarse  del cuerpo,  Salir de esa  jaula que  te limita(Haruki), a veces Pensando rapido y
+    otras pensando despacio(Keahneman), agredeciendo HOY poder acariciar a algun felino(J. Peterson)
+    Gracias  TOTALES(Cerati) por cada uno de  los  libros comprados  y  algunos prestados que quizás 
+    devolveré,  BUENO hasta aqui porque la sopa se enfría,,,
+                                
 
 
