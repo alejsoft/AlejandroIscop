@@ -6,7 +6,7 @@
        <a href="https://www.youtube.com/channel/UCptIlZdwMQXMuEr06WzNGMg" target="blank" style='margin-right:4px'>
            <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/youtube.svg" alt="@AlejandroYOUTUBE" height="40" width="40" ></img>
        </a>
-       <a href="https://twitter.com/AlejandroIscop" target="blank">
+       <a href="https://twitter.com/alejsoft" target="blank">
           <img align="center" src="https://github.com/AlejandroIscop/AlejandroIscop/blob/main/Assets/twitter.svg" alt="@AlejandroTWITTER" height="40" width="40" ></img>
        </a>
        
