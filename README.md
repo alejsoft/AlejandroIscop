@@ -70,5 +70,5 @@
     de los libros comprados y algunos prestados que quizás devolveré,  BUENO hasta aqui 
     porque la sopa se enfría (daVinci),,,
                                 
-
-
+## Blog ( Frases, Tecnologia, Etc )
+    https://alejsoft.com
