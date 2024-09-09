@@ -62,13 +62,15 @@
     Podremos   leer   solo  UNA  vida  y  con  los  años  intentaremos comprender algUNA  
     vida descifrar esa maraña de sentimientos y letanías. Tocará seguir  yendo contracorriente, 
     “Perdón por la Tristeza (César Vallejo), Simplicidad (Neruda), Aprendiendo a Desaprender 
-    lo que te dicen del mundo(Benedetti) y lo que sigue(Miguel Hernández). Para finalmente 
-    distanciarse del cuerpo, Salir de esa jaula que te limita(Haruki), a veces Pensando 
-    rapido y  otras pensando despacio(Keahneman), dando la vuelta al mundo en 80.5 dias 
-    porque no hay obstaculos imposibles solo VOLUNTAD FUERTE  (J.Verne ), agredeciendo HOY 
-    poder acariciar a algun felino (J. Peterson) .  GRACIAS  TOTALES(Cerati) por cada uno 
-    de los libros comprados y algunos prestados que quizás devolveré,  BUENO hasta aqui 
-    porque la sopa se enfría (daVinci),,,
+    lo que te dicen del mundo(Benedetti) y lo que sigue (Miguel Hernández). Para finalmente 
+    distanciarse del cuerpo, Salir de esa jaula que te limita (H. Murakami), a veces Pensando 
+    rapido y  otras pensando despacio (Keahneman), dando la vuelta al mundo en 80.5 dias 
+    porque no hay obstaculos imposibles solo VOLUNTAD FUERTE (J.Verne), Agradeciendo hoy el 
+    poder acariciar a algún felino (J. Peterson), mientras sueño con que algún mágico día 
+    llueva de pronto la buena suerte, que llueva a cántaros la buena suerte (E. Galeano). 
+    
+    GRACIAS TOTALES (Cerati) por cada uno de los libros comprados y algunos prestados que 
+    quizás devolveré,  BUENO hasta aqui porque la sopa se enfría (daVinci),,,
                                 
 ## Blog ( Frases, Tecnologia, Etc )
     https://alejsoft.com
